@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+#### I'm Paolo Urciullo.  I currently work with JavaScript and Python.  I'm currently learning how to use React.  
+
+## 📫 email: paolourciullo@gmail.com  Twitter: @paolo__init__  
 
 <!--
 **paolourciullo/paolourciullo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
