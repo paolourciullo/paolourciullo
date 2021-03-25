@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-#### I'm Paolo Urciullo.  I currently work with JavaScript and Python.  I'm currently learning how to use React, MongoDB and Express.    
+#### I'm Paolo Urciullo.  I used to work in manufacturing as an engineering technician, but now have a new focus on software development.  I've designed electronic interfaces and cabling rigs for the aerospace industry.  I currently work with JavaScript and Python.  I'm currently learning how to use React, MongoDB and Express.    I have a passion for leveraging technologies to solve problems.  (I'm new to GitHub, so if you see something looking strange it is most likely because no one has told me how to do it properly yet.  that could be you, just sayin..)  Cheers, y'all!
 
-### 📫 email: paolourciullo@gmail.com  ![](https://img.shields.io/twitter/follow/paolo__init__?label=%40paolo__init__&logoColor=green&style=social)
+### 📫 email: info@paolourciullo.com  ![](https://img.shields.io/twitter/follow/paolo__init__?label=%40paolo__init__&logoColor=green&style=social)
 
 <!--
 **paolourciullo/paolourciullo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
