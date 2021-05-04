@@ -18,8 +18,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<center> 
-  <p align="center"> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=paolourciullo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-  </p>
-</center>
+
+
+
+
+<p align="center">
+  <img
+      align="center"
+      height="165"
+      src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif"
+    />
+</p>
+
+<p>
+  <a href="https://github.com/paolourciullo/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=paolourciullo&count_private=true&show_icons=true&custom_title=Paolo's%20Github%20Stats&hide=issues&theme=vision-friendly-dark"
+    />
+  </a>
+  
+  <a href="https://github.com/paolourciullo/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolourciullo&&layout=compact&theme=vision-friendly-dark&langs_count=8)"
+    />
+  </a>
+</p>
