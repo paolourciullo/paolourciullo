@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     />
 </p>
 
-<p>
+<p align="center">
   <a href="https://github.com/paolourciullo/github-readme-stats">
     <img
       align="center"
