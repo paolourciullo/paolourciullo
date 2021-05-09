@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-#### I'm Paolo Urciullo. I used to work in manufacturing as an engineering technician, but now have a new focus on software development. I've designed electronic interfaces and cabling rigs for the aerospace industry. I currently work with JavaScript and Python, but I'm learning React, MongoDB, and Express. I have a passion for leveraging technologies to solve problems. (I'm new to GitHub, so if you see something looking strange it is most likely because no one has told me how to do it properly yet. That could be you, just sayin..) Cheers, y'all!
+#### I'm Paolo!  Javascript, react, node.js, MongoDB, puppies.  (oh, and kittens.)
 
 ### 📫 email: info@paolourciullo.com  ![](https://img.shields.io/twitter/follow/paolo__init__?label=%40paolo__init__&logoColor=green&style=social)
 
