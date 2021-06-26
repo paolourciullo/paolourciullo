@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-#### I'm Paolo!  Javascript, react, node.js, MongoDB, puppies.  (oh, and kittens.)
+#### I'm Paolo!  Javascript, react, node.js, MongoDB, Git.  
 
 ### 📫 email: info@paolourciullo.com  ![](https://img.shields.io/twitter/follow/paolo__init__?label=%40paolo__init__&logoColor=green&style=social)
 
