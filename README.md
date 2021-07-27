@@ -1,8 +1,18 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-#### I'm Paolo!  Javascript, react, node.js, MongoDB, Git, Figma.  
+## I'm Paolo!  
+I am an engineer.  I used to make testing equipment for the aerospace industry.  2020 made me change focus and learn how to create and develop web applications.
 
-### 📫 email: info@paolourciullo.com  ![](https://img.shields.io/twitter/follow/paolo__init__?label=%40paolo__init__&logoColor=green&style=social)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paolourciullo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white")
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
+### 📫 email: paolourciullo@gmail.com  ![](https://img.shields.io/twitter/follow/paolo__init__?label=%40paolo__init__&logoColor=green&style=social)
+
+## ⚡ Fun fact: I was a theatre major in college.  🎭
 
 <!--
 **paolourciullo/paolourciullo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,20 +34,4 @@ Here are some ideas to get you started:
 
 
 
-<p align="center">
-  <a href="https://github.com/paolourciullo/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=paolourciullo&count_private=true&show_icons=true&custom_title=Paolo's%20Github%20Stats&hide=issues&theme=vision-friendly-dark"
-    />
-  </a>
-  
-  <a href="https://github.com/paolourciullo/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolourciullo&&layout=compact&theme=vision-friendly-dark&langs_count=8)"
-    />
-  </a>
-</p>
+
