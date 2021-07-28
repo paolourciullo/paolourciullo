@@ -14,6 +14,9 @@ I am an engineer.  I used to make testing equipment for the aerospace industry. 
 
 ## ⚡ Fun fact: I was a theatre major in college.  🎭
 
+## Now Playing 📻
+[![Spotify](https://novatorem-lime-eight.vercel.app/api/spotify)](https://open.spotify.com/user/9caazjx0xo1eg1b7az10hcxlh)
+
 <!--
 **paolourciullo/paolourciullo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
