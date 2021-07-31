@@ -12,10 +12,12 @@ I am an engineer.  I used to make testing equipment for the aerospace industry. 
 
 ### 📫 email: paolourciullo@gmail.com  ![](https://img.shields.io/twitter/follow/paolo__init__?label=%40paolo__init__&logoColor=green&style=social)
 
-## ⚡ Fun fact: I was a theatre major in college.  🎭
+##  <img src="https://media.giphy.com/media/TjdjGJc9ti9RIFk0IJ/giphy.gif" width="25px">Fun fact: I was a theatre major in college.  🎭
 
 ## Now Playing 📻
 [![Spotify](https://novatorem-lime-eight.vercel.app/api/spotify)](https://open.spotify.com/user/9caazjx0xo1eg1b7az10hcxlh)
+
+## Be Safe! <img src="https://media.giphy.com/media/ftklTmdD9MN3uXaLvb/giphy.gif" width="40px"><img src="https://media.giphy.com/media/UsLzFcO1wZCgnAFFvi/giphy.gif" width="40px">
 
 <!--
 **paolourciullo/paolourciullo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
