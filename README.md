@@ -1,7 +1,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm Paolo!  
-I am an engineer.  I make testing equipment and work with printed circuit boards.  
+Engineering Technician.  Building stuff out here in these streets.  Right now I work on really cool projects with a really great, compact team helping to build solutions for the automotive industry.  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paolourciullo&layout=compact)](https://github.com/paolourciullo/resumelatex)
 
