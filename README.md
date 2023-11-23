@@ -10,7 +10,7 @@ Engineering Technician.  Building stuff out here in these streets.  Right now I 
 <!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
 
 
-### 📫 email: paolourciullo@gmail.com  ![](https://img.shields.io/twitter/follow/paolo__init__?label=%40paolo__init__&logoColor=green&style=social)
+### 📫 email: paolourciullo@gmail.com  
 
 ##  <img src="https://media.giphy.com/media/TjdjGJc9ti9RIFk0IJ/giphy.gif" width="25px">Fun fact: I was a theatre major in college.  🎭
 
